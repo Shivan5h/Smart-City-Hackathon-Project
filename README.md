@@ -1,5 +1,3 @@
-# Smart-City-Hackathon-Project
-
 # Smart City Mobile App
 
 Welcome to the **Smart City Mobile App**, a feature-rich Android application developed using Kotlin. This app integrates several smart city solutions to enhance urban living by providing citizens with real-time information, interactive navigation, and easy access to essential services.
